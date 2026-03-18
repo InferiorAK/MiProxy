@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python3.10.8-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FMiProxy&title=Visitors&edge_flat=false"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.MiProxy" alt="Visitors">
 </p>
 <p align="center"><a href="https://github.com/inferiorak/MiProxy/releases/tag/MiProxy1.0">*** All Releases ***</a></p>
 
